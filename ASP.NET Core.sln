@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDemoRazorPages", "WebAppDemoRazorPages\WebAppDemoRazorPages.csproj", "{82D82787-1203-43DE-B7B5-CB672199131F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDemoMVC", "WebAppDemoMVC\WebAppDemoMVC.csproj", "{A1F42424-4D74-4735-958C-C2C72591682A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDemoApi", "WebAppDemoApi\WebAppDemoApi.csproj", "{A51D5CED-B0DC-4815-9599-6BCDD9574038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppServerDemo", "BlazorAppServerDemo\BlazorAppServerDemo.csproj", "{6DCDF92F-D358-4CA2-88C5-86641713EBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssemblyDemo.Server", "BlazorAppWebAssemblyDemo\Server\BlazorAppWebAssemblyDemo.Server.csproj", "{199EC839-129D-499C-840D-B5E2B91878BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssemblyDemo.Client", "BlazorAppWebAssemblyDemo\Client\BlazorAppWebAssemblyDemo.Client.csproj", "{99E405E5-A613-4380-A6DA-76A809937E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssemblyDemo.Shared", "BlazorAppWebAssemblyDemo\Shared\BlazorAppWebAssemblyDemo.Shared.csproj", "{5CA7A2DA-9DED-49B0-A978-CA2A91A0ED66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D82787-1203-43DE-B7B5-CB672199131F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D82787-1203-43DE-B7B5-CB672199131F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D82787-1203-43DE-B7B5-CB672199131F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D82787-1203-43DE-B7B5-CB672199131F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F42424-4D74-4735-958C-C2C72591682A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F42424-4D74-4735-958C-C2C72591682A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F42424-4D74-4735-958C-C2C72591682A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F42424-4D74-4735-958C-C2C72591682A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51D5CED-B0DC-4815-9599-6BCDD9574038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51D5CED-B0DC-4815-9599-6BCDD9574038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51D5CED-B0DC-4815-9599-6BCDD9574038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51D5CED-B0DC-4815-9599-6BCDD9574038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCDF92F-D358-4CA2-88C5-86641713EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCDF92F-D358-4CA2-88C5-86641713EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCDF92F-D358-4CA2-88C5-86641713EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCDF92F-D358-4CA2-88C5-86641713EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199EC839-129D-499C-840D-B5E2B91878BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199EC839-129D-499C-840D-B5E2B91878BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199EC839-129D-499C-840D-B5E2B91878BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199EC839-129D-499C-840D-B5E2B91878BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E405E5-A613-4380-A6DA-76A809937E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E405E5-A613-4380-A6DA-76A809937E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E405E5-A613-4380-A6DA-76A809937E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E405E5-A613-4380-A6DA-76A809937E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA7A2DA-9DED-49B0-A978-CA2A91A0ED66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA7A2DA-9DED-49B0-A978-CA2A91A0ED66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA7A2DA-9DED-49B0-A978-CA2A91A0ED66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA7A2DA-9DED-49B0-A978-CA2A91A0ED66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E88001-DF7A-4EC2-82F6-38D769A2682C}
+	EndGlobalSection
+EndGlobal

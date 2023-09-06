@@ -1,0 +1,11 @@
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\bin\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.deps.json
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\bin\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.dll
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\bin\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.pdb
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\obj\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\obj\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.AssemblyInfoInputs.cache
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\obj\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.AssemblyInfo.cs
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\obj\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.csproj.CoreCompileInputs.cache
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\obj\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.dll
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\obj\Debug\net6.0\refint\BlazorAppWebAssemblyDemo.Shared.dll
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\obj\Debug\net6.0\BlazorAppWebAssemblyDemo.Shared.pdb
+D:\ASP.Net\ASP.NET Core\BlazorAppWebAssemblyDemo\Shared\obj\Debug\net6.0\ref\BlazorAppWebAssemblyDemo.Shared.dll
